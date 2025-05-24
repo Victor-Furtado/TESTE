@@ -1,0 +1,78 @@
+{
+    "_id": "PgKmsA2aKdbLU6O0",
+    "ok": true,
+    "img": "https://images.demiplane.com/elements/pathfinder-2e/ancestries/ancestry-elf-rm-detail.png?format=webp&quality=90&width=1920",
+    "name": "Elf",
+    "system": {
+        "additionalLanguages": {
+            "count": 0,
+            "custom": "",
+            "value": [
+                "draconic",
+                "empyrean",
+                "fey",
+                "gnomish",
+                "goblin",
+                "kholo",
+                "orcish"
+            ]
+        },
+        "boosts": {
+            "0": {
+                "value": [
+                    "dex"
+                ]
+            },
+            "1": {
+                "value": [
+                    "int"
+                ]
+            },
+            "2": {
+                "value": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        },
+        "description": "Elfos são um povo alto, esguio e longevo com uma forte tradição em arte e magia.",
+        "flaws": {
+            "0": {
+                "value": [
+                    "con"
+                ]
+            }
+        },
+        "hp": 6,
+        "items": {},
+        "languages": {
+            "custom": "",
+            "value": [
+                "common",
+                "elven"
+            ]
+        },
+        "publication": {
+            "license": "ORC",
+            "remaster": true,
+            "title": "Pathfinder Player Core"
+        },
+        "reach": 5,
+        "rules": [],
+        "size": "med",
+        "speed": 30,
+        "traits": {
+            "rarity": "common",
+            "value": [
+                "elf",
+                "humanoid"
+            ]
+        },
+        "vision": "low-light-vision"
+    },
+    "type": "ancestry"
+}

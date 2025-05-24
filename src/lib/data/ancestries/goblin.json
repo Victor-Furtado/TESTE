@@ -1,0 +1,77 @@
+{
+    "_id": "sQfjTMDaZbT9DThq",
+    "ok": true,
+    "img": "https://images.demiplane.com/elements/pathfinder-2e/ancestries/ancestry-goblin-rm-detail.png?format=webp&quality=90&width=1920",
+    "name": "Goblin",
+    "system": {
+        "additionalLanguages": {
+            "count": 0,
+            "custom": "",
+            "value": [
+                "draconic",
+                "dwarven",
+                "gnomish",
+                "halfling",
+                "kholo",
+                "orcish"
+            ]
+        },
+        "boosts": {
+            "0": {
+                "value": [
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "dex"
+                ]
+            },
+            "2": {
+                "value": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        },
+        "description": "Goblins são um povo baixo e desorganizado, porém enérgico e obstinado. Foram vilificados e temidos por milênios.",
+        "flaws": {
+            "0": {
+                "value": [
+                    "wis"
+                ]
+            }
+        },
+        "hp": 6,
+        "items": {},
+        "languages": {
+            "custom": "",
+            "value": [
+                "common",
+                "goblin"
+            ]
+        },
+        "publication": {
+            "license": "ORC",
+            "remaster": true,
+            "title": "Pathfinder Player Core"
+        },
+        "reach": 5,
+        "rules": [],
+        "size": "sm",
+        "speed": 25,
+        "traits": {
+            "rarity": "common",
+            "value": [
+                "goblin",
+                "humanoid"
+            ]
+        },
+        "vision": "darkvision"
+    },
+    "type": "ancestry"
+}

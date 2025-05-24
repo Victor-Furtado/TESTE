@@ -1,0 +1,70 @@
+{
+    "_id": "IiG7DgeLWYrSNXuX",
+    "ok": true,
+    "img": "https://images.demiplane.com/elements/pathfinder-2e/ancestries/ancestry-human-rm-detail.png?format=webp&quality=90&width=1920",
+    "name": "Human",
+    "system": {
+        "additionalLanguages": {
+            "count": 1,
+            "custom": "",
+            "value": []
+        },
+        "boosts": {
+            "0": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "2": {
+                "value": []
+            }
+        },
+        "description": "Humanos são incrivelmente diversos. Alguns, como meio-elfos e meio-orcs, descendem de ancestrais não-humanos.",
+        "flaws": {
+            "0": {
+                "value": []
+            }
+        },
+        "hp": 8,
+        "items": {},
+        "languages": {
+            "custom": "",
+            "value": [
+                "common"
+            ]
+        },
+        "publication": {
+            "license": "ORC",
+            "remaster": true,
+            "title": "Pathfinder Player Core"
+        },
+        "reach": 5,
+        "rules": [],
+        "size": "med",
+        "speed": 25,
+        "traits": {
+            "rarity": "common",
+            "value": [
+                "human",
+                "humanoid"
+            ]
+        },
+        "vision": "normal"
+    },
+    "type": "ancestry"
+}

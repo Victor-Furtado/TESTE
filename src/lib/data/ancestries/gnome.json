@@ -1,0 +1,78 @@
+{
+    "_id": "CYlfsYLJcBOgqKtD",
+    "ok": true,
+    "img": "https://images.demiplane.com/elements/pathfinder-2e/ancestries/ancestry-gnome-rm-detail.png?format=webp&quality=90&width=1920",
+    "name": "Gnome",
+    "system": {
+        "additionalLanguages": {
+            "count": 0,
+            "custom": "",
+            "value": [
+                "draconic",
+                "dwarven",
+                "elven",
+                "goblin",
+                "jotun",
+                "orcish"
+            ]
+        },
+        "boosts": {
+            "0": {
+                "value": [
+                    "cha"
+                ]
+            },
+            "1": {
+                "value": [
+                    "con"
+                ]
+            },
+            "2": {
+                "value": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        },
+        "description": "Gnomos são um povo baixo e vigoroso com uma curiosidade insaciável e hábitos excêntricos.",
+        "flaws": {
+            "0": {
+                "value": [
+                    "str"
+                ]
+            }
+        },
+        "hp": 8,
+        "items": {},
+        "languages": {
+            "custom": "",
+            "value": [
+                "common",
+                "fey",
+                "gnomish"
+            ]
+        },
+        "publication": {
+            "license": "ORC",
+            "remaster": true,
+            "title": "Pathfinder Player Core"
+        },
+        "reach": 5,
+        "rules": [],
+        "size": "sm",
+        "speed": 25,
+        "traits": {
+            "rarity": "common",
+            "value": [
+                "gnome",
+                "humanoid"
+            ]
+        },
+        "vision": "low-light-vision"
+    },
+    "type": "ancestry"
+}

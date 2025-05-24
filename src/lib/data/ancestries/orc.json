@@ -1,0 +1,76 @@
+{
+    "_id": "lSGWXjcbOa6O5fTx",
+    "ok": true,
+    "img": "https://images.demiplane.com/elements/pathfinder-2e/ancestries/ancestry-orc-rm-detail.png?format=webp&quality=90&width=1920",
+    "name": "Orc",
+    "system": {
+        "additionalLanguages": {
+            "count": 0,
+            "custom": "",
+            "value": [
+                "goblin",
+                "jotun",
+                "petran",
+                "sakvroth"
+            ]
+        },
+        "boosts": {
+            "0": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            },
+            "1": {
+                "value": [
+                    "cha",
+                    "con",
+                    "dex",
+                    "int",
+                    "str",
+                    "wis"
+                ]
+            },
+            "2": {
+                "value": []
+            }
+        },
+        "description": "Orcs são pessoas orgulhosas e fortes, com físicos robustos, que valorizam a força física e a glória em combate.",
+        "flaws": {
+            "0": {
+                "value": []
+            }
+        },
+        "hp": 10,
+        "items": {},
+        "languages": {
+            "custom": "",
+            "value": [
+                "common",
+                "orcish"
+            ]
+        },
+        "publication": {
+            "license": "ORC",
+            "remaster": true,
+            "title": "Pathfinder Player Core"
+        },
+        "reach": 5,
+        "rules": [],
+        "size": "med",
+        "speed": 25,
+        "traits": {
+            "rarity": "common",
+            "value": [
+                "humanoid",
+                "orc"
+            ]
+        },
+        "vision": "darkvision"
+    },
+    "type": "ancestry"
+}
